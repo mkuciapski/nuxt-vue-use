@@ -6,7 +6,7 @@ const { isRevealed, reveal, confirm, cancel, onConfirm } = useConfirmDialog()
 //const difference = useArrayDifference(list1, list2)
 
 onConfirm(() => {
-  alert('fsdfdsf')
+  alert('Inter')
   //6pucjqr5u5ewsyldcyj2mvi4gta73ln6hfp2iud36sngkkkdxura
 })
 </script>
